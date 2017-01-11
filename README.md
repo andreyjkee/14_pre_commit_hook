@@ -1,7 +1,12 @@
-# Quadratic Equations Solver
+# Модуль вычисления квадратных уравнений.
 
-[TODO. There will be project description]
+### Использование:
+Импортируйте функцию get_roots для вычисления корней квадратного уравнения.
 
-# Project Goals
+### Запуск тестов:
+```sh
+python tests.py
+```
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+### Проверка кода перед коммитом:
+Для автоматической проверки кода перед коммитом скопируйте файл pre-commit в каталог .git/hooks
